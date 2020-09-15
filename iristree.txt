@@ -1,0 +1,24 @@
+node), split, n, deviance, yval, (yprob)
+      * denotes terminal node
+
+ 1) root 150 329.600 setosa ( 0.33333 0.33333 0.33333 )  
+   2) Petal.Length < 2.45 50   0.000 setosa ( 1.00000 0.00000 0.00000 ) *
+   3) Petal.Length > 2.45 100 138.600 versicolor ( 0.00000 0.50000 0.50000 )  
+      Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  1.000   1.000   2.000   2.576   4.000   5.000 
+ No Yes 
+250 125 
+ No Yes 
+250 125 
+ No Yes 
+250 125 
+[1] "D:/Data mining and DB programming/datasets"
+[1] "D:/Data mining and DB programming/datasets"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  1.000   1.000   2.000   2.576   4.000   5.000 
+ No Yes 
+250 125 
+ 0.00000 0.33333 0.66667 ) *
+     7) Petal.Width > 1.75 46   9.635 virginica ( 0.00000 0.02174 0.97826 )  
+      14) Petal.Length < 4.95 6   5.407 virginica ( 0.00000 0.16667 0.83333 ) *
+      15) Petal.Length > 4.95 40   0.000 virginica ( 0.00000 0.00000 1.00000 ) *
